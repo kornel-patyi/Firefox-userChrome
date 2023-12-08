@@ -1,0 +1,16 @@
+#context-navigation,
+#context-sep-navigation,
+#context-pocket,
+#context-selectall,
+#context-viewsource,
+#context-inspect-a11y,
+#context-sendimage,
+#context-sep-setbackground,
+#context-setDesktopBackground,
+#context-openlinkinusercontext-menu,
+#context-bookmarklink,
+#context-savelinktopocket,
+#context-sep-sendlinktodevice,
+#context-searchselect {
+    display: none;
+}
